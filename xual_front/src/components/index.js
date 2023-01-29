@@ -4,6 +4,7 @@ import Stats from "./Stats";
 import Footer from "./Footer";
 import Hero from "./Hero";
 import Slider from "./Slider";
+import DiscordWidget from "./DiscordWidget";
 
 export {
   Navbar,
@@ -11,5 +12,6 @@ export {
   Stats,
   Footer,
   Hero,
-  Slider
+  Slider,
+  DiscordWidget
 };

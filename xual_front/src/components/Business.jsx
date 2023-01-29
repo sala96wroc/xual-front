@@ -26,11 +26,11 @@ const Business = () => {
   return (
     <section id="features" className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}> You do the business, <br className="sm:block hidden"/> we'll handle the money.</h2>
+        <h2 className={styles.heading2}> Sit back and let our harmonic patterns scanner do the work.</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          With the right credit card, you can improve your financial
-          life by building credit, earning rewards and saving money.
-          But with hundres of credit cards on the market.
+        Identify harmonic patterns with our script and get real-time 
+        Discord notifications for entry prices, take profit levels, 
+        and stop losses. Make informed trading decisions with ease.
         </p>
 
         <Button styles="mt-10"/>
