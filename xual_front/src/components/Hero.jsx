@@ -30,9 +30,10 @@ const Hero = () => (
           Trading Method.
         </h1>
 
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}> Our team of experts uses a methodology to identify the
-          credit cards most likely to fit your needs. We examine annual
-          percentage rates, annual fees.
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}> 
+        Maximize your returns with our revolutionary harmonic pattern scanner. 
+        Precision, speed, and actionable trade signals at your fingertips. 
+        <br />Upgrade your trading game now!
         </p>
       </div>
       

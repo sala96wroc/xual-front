@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { facebook, instagram, linkedin, twitter, send, shield, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -23,50 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Top Performers",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "We keep track of crypto coins and stocks that best perform with our scanner",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Verified Performance",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "The scanner's perfromance was verified by extensive back testing. Testing strategy and results are freely available in our Discord channel",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Instant Notifications",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
-  },
-];
-
-export const feedback = [
-  {
-    id: "feedback-1",
-    content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
-    img: people01,
-  },
-  {
-    id: "feedback-2",
-    content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
-    img: people02,
-  },
-  {
-    id: "feedback-3",
-    content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
-    img: people03,
+      "Stay on top of your trading game at all times with potential trades notifications",
   },
 ];
 
@@ -83,8 +56,8 @@ export const stats = [
   },
   {
     id: "stats-3",
-    title: "Users",
-    value: "1.5k",
+    title: "Trading data APIs",
+    value: "5",
   },
 ];
 
@@ -174,24 +147,5 @@ export const socialMedia = [
     id: "social-media-4",
     icon: linkedin,
     link: "https://www.linkedin.com/",
-  },
-];
-
-export const clients = [
-  {
-    id: "client-1",
-    logo: airbnb,
-  },
-  {
-    id: "client-2",
-    logo: binance,
-  },
-  {
-    id: "client-3",
-    logo: coinbase,
-  },
-  {
-    id: "client-4",
-    logo: dropbox,
   },
 ];
